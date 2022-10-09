@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 😄 Pronouns: ...he/him
 ⚡ Fun fact: ...
 🚀 Languages and Tools:
-Python Sqlite3 PostgreSql PyQt5 Django Git GitHub HTML5 CSS3 Fastapi
+Python Sqlite3 PostgreSql PyQt5 Django Git GitHub HTML5 CSS3 Fastapi Rastfull
