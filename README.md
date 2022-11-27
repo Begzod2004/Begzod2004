@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 🚀 Languages and Tools:
 Python Sqlite3 PostgreSql PyQt5 Django Git GitHub HTML5 CSS3 Fastapi Rastfull
+
+
+
+
+![изображение](https://user-images.githubusercontent.com/103951263/204124946-5c3b37e8-cd93-4132-ad99-9011262bc733.png)
