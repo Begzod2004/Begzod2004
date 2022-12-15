@@ -31,3 +31,8 @@ Here are some ideas to get you started:
 
 Python Sqlite3 PostgreSql PyQt5 Django Git GitHub HTML5 CSS3 Fastapi Rastfull
 
+
+https://raw.githubusercontent.com/theMir8/theMir8/9973dc63b67e2628603de8868cce7a069ff00873/github-contribution-grid-snake.svg
+
+
+
