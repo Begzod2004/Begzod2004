@@ -34,5 +34,5 @@ Python Sqlite3 PostgreSql PyQt5 Django Git GitHub HTML5 CSS3 Fastapi Rastfull
 
 ![Git hub snake](https://raw.githubusercontent.com/theMir8/theMir8/9973dc63b67e2628603de8868cce7a069ff00873/github-contribution-grid-snake.svg)
 
-
+![Git status](https://github-readme-stats.vercel.app/api?username=Begzod2004&count_private=true&show_icons=true&theme=radical)
 
