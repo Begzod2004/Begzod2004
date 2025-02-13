@@ -24,6 +24,9 @@
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Begzod2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
