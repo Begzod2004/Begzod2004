@@ -1,6 +1,6 @@
-# Beka — Product Builder & Backend Engineer
+# Bekmurod Mirzaqulov — Product Builder & Backend Engineer
 
-I design and build real-world digital systems — from idea to production.
+I build real-world digital products — from idea to production.
 
 Project Manager by responsibility
 Backend Engineer by craft
@@ -8,22 +8,22 @@ Systems thinker by nature
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-* Build scalable backend systems (Django / DRF)
-* Lead projects from concept to launch
-* Design system architecture
-* Create automation & AI-driven solutions
-* Deliver production-ready products
+* Scalable backend systems (Django / DRF)
+* End-to-end products from concept to launch
+* System architecture & infrastructure
+* Automation & AI-driven solutions
+* Production-ready platforms for real users
 
 ---
 
-## 🧠 Focus Areas
+## 🧠 Focus Domains
 
-* Marketplaces & CRM platforms
-* FinTech & payment systems
-* Real estate & automotive products
-* Bots & automation tools
+* Marketplaces & CRM ecosystems
+* FinTech & payment infrastructure
+* Real estate & automotive platforms
+* Bots & automation systems
 * High-load backend services
 
 ---
@@ -34,26 +34,18 @@ Systems thinker by nature
 Python • Django • DRF • PostgreSQL • Redis
 
 **Infrastructure**
-Docker • Linux • REST APIs • Nginx
+Docker • Linux • REST APIs • Nginx • CI/CD
 
-**Product & Management**
-System design • Agile • Technical planning
+**Product & Leadership**
+System design • Agile • Technical planning • Delivery
 
 ---
 
 ## 🎯 Philosophy
 
-Build products that solve real problems —
-not just projects for portfolios.
-
----
-
-## 📫 Contact
-
-Telegram: @user_py
-Email: [mirzaqulovbekmurod@email.com](mirzaqulovbekmurod@email.com)
-
-
+Build systems that scale.
+Solve real problems.
+Ship products that matter.
 
 ---
 
@@ -78,3 +70,9 @@ Email: [mirzaqulovbekmurod@email.com](mirzaqulovbekmurod@email.com)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Begzod2004&theme=github-compact&hide_border=true"/>
 
+---
+
+## 📫 Contact
+
+Telegram: @user_py
+Email: [mirzaqulovbekmurod@email.com](mailto:mirzaqulovbekmurod@email.com)
