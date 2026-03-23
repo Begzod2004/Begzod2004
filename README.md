@@ -1,4 +1,4 @@
-# Bekmurod Mirzaqulov — Product Builder & Backend Engineer
+# Bekzod Mirzaqulov — Product Builder & Backend Engineer
 
 I build real-world digital products — from idea to production.
 
